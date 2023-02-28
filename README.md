@@ -1,6 +1,8 @@
 # Demo Website Starter
 
-Learn how to a deploy a Next.js Jamstack app and set up a collaborative CMS with CloudCannon.
+Learn how to a deploy a Next.js Jamstack app and set up a collaborative CMS with [CloudCannon](https://cloudcannon.com/jamstack/).
+
+---
 
 ## Objectives
 
@@ -11,6 +13,8 @@ Learn how to a deploy a Next.js Jamstack app and set up a collaborative CMS with
 - Deploy the app with a static site chain.
 
 - Learn how to use branching flows for collaborative editing.
+
+#
 
 ## ⚡️ Quick Start
 
