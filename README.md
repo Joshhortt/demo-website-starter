@@ -25,14 +25,11 @@ Learn how to a deploy a Next.js Jamstack app and set up a collaborative CMS with
 ### Clone the Starter Project Files
 
 ```bash
-yarn create next-app -e https://github.com/Joshhortt/demo-website-starter
-# or
-npx create-next-app -e https://github.com/Joshhortt/demo-website-starter
+git clone https://github.com/Joshhortt/demo-website-starter
+
 ```
 
-### Install Dependencies (optional)
-
-**Note** - If you use `git-clone` instead of `yarn create next-app` you need to install dependecies. Just use the following command:
+### Install Dependencies
 
 ```bash
 yarn install
