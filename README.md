@@ -30,7 +30,9 @@ yarn create next-app -e https://github.com/Joshhortt/demo-website-starter
 npx create-next-app -e https://github.com/Joshhortt/demo-website-starter
 ```
 
-### Install Dependencies
+### Install Dependencies (optional)
+
+**Note** - If you use `git-clone` instead of `yarn create next-app` you need to install dependecies. Just use the following command:
 
 ```bash
 yarn install
